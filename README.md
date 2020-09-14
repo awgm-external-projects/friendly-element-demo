@@ -1,4 +1,6 @@
-# web-platform-tfv3e3
+# A Friendly Web Component
+
+## friendly-element-demo
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-tfv3e3)
 
